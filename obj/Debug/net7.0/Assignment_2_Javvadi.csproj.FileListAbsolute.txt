@@ -1,0 +1,14 @@
+C:\DIS\Assignment_2_Javvadi\bin\Debug\net7.0\Assignment_2_Javvadi.exe
+C:\DIS\Assignment_2_Javvadi\bin\Debug\net7.0\Assignment_2_Javvadi.deps.json
+C:\DIS\Assignment_2_Javvadi\bin\Debug\net7.0\Assignment_2_Javvadi.runtimeconfig.json
+C:\DIS\Assignment_2_Javvadi\bin\Debug\net7.0\Assignment_2_Javvadi.dll
+C:\DIS\Assignment_2_Javvadi\bin\Debug\net7.0\Assignment_2_Javvadi.pdb
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.GeneratedMSBuildEditorConfig.editorconfig
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.AssemblyInfoInputs.cache
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.AssemblyInfo.cs
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.csproj.CoreCompileInputs.cache
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.dll
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\refint\Assignment_2_Javvadi.dll
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.pdb
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\Assignment_2_Javvadi.genruntimeconfig.cache
+C:\DIS\Assignment_2_Javvadi\obj\Debug\net7.0\ref\Assignment_2_Javvadi.dll
